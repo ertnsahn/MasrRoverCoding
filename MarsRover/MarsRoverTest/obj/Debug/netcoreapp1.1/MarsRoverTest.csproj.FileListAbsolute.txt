@@ -1,0 +1,14 @@
+C:\Users\BYES\Desktop\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp1.1\MarsRoverTest.deps.json
+C:\Users\BYES\Desktop\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp1.1\MarsRoverTest.runtimeconfig.json
+C:\Users\BYES\Desktop\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp1.1\MarsRoverTest.runtimeconfig.dev.json
+C:\Users\BYES\Desktop\MarsRover\MarsRover\MarsRoverTest\obj\Debug\netcoreapp1.1\MarsRoverTest.AssemblyInfo.cs
+C:\Users\BYES\Desktop\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\BYES\Desktop\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\BYES\Desktop\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\BYES\Desktop\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp1.1\MarsRoverTest.dll
+C:\Users\BYES\Desktop\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp1.1\MarsRoverTest.pdb
+C:\Users\BYES\Desktop\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp1.1\MarsRover.dll
+C:\Users\BYES\Desktop\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp1.1\MarsRover.pdb
+C:\Users\BYES\Desktop\MarsRover\MarsRover\MarsRoverTest\obj\Debug\netcoreapp1.1\MarsRoverTest.csprojResolveAssemblyReference.cache
+C:\Users\BYES\Desktop\MarsRover\MarsRover\MarsRoverTest\obj\Debug\netcoreapp1.1\MarsRoverTest.dll
+C:\Users\BYES\Desktop\MarsRover\MarsRover\MarsRoverTest\obj\Debug\netcoreapp1.1\MarsRoverTest.pdb
